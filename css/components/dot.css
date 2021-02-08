@@ -1,0 +1,7 @@
+.dot {
+    background-color: tomato;
+    display: block;
+    width: 6px;
+    height: 6px;
+    border-radius: 3px;
+}
